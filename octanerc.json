@@ -1,0 +1,7 @@
+{
+  "pathsToAnalyze": [
+    "**/contracts/aggregators/TSAggregatorUniswapV2_V1.sol",
+    "**/contracts/aggregators/TSAggregatorUniswapV3_V2.sol",
+    "**/contracts/aggregators/TSAggregatorGeneric_V1.sol"
+  ]
+}
